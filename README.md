@@ -280,6 +280,8 @@
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
+- [Chain.Love](https://chain.love/).
+  Open-source directory of blockchain RPC node providers, indexers, block explorers, bridges, and Rust/Web3 developer tools ([GitHub](https://github.com/Chain-Love/chain-love)).
 
 ## Contribute
 Contributions are most welcome.
